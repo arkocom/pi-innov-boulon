@@ -21,7 +21,7 @@ export default function Hero() {
             </div>
             
             <h1 className="text-4xl md:text-6xl font-bold text-gray-900 mb-6">
-              Le <span className="gradient-pi bg-clip-text text-transparent">Pi Network</span> avec Innov'BOULON
+              Le <span className="gradient-text-pi">Pi Network</span> avec Innov'BOULON
             </h1>
             
             <p className="text-xl text-gray-600 mb-8">

@@ -67,7 +67,7 @@ export default function Membership() {
       <div className="container mx-auto px-4">
         <div className="text-center mb-16">
           <h2 className="text-4xl md:text-5xl font-bold text-gray-900 mb-4">
-            Adhésions <span className="gradient-pi bg-clip-text text-transparent">avec Pi</span>
+            Adhésions <span className="gradient-text-pi">avec Pi</span>
           </h2>
           <p className="text-xl text-gray-600 max-w-2xl mx-auto">
             Rejoignez Innov'BOULON et payez votre adhésion en Pi ou en euros. 

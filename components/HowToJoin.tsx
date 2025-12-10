@@ -35,7 +35,7 @@ export default function HowToJoin() {
       <div className="container mx-auto px-4">
         <div className="text-center mb-16">
           <h2 className="text-4xl md:text-5xl font-bold text-gray-900 mb-4">
-            Comment <span className="gradient-pi bg-clip-text text-transparent">rejoindre</span> ?
+            Comment <span className="gradient-text-pi">rejoindre</span> ?
           </h2>
           <p className="text-xl text-gray-600 max-w-2xl mx-auto">
             En 4 étapes simples, commencez à miner du Pi gratuitement dès aujourd'hui.

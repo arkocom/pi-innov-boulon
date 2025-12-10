@@ -31,7 +31,7 @@ export default function AboutPi() {
       <div className="container mx-auto px-4">
         <div className="text-center mb-16">
           <h2 className="text-4xl md:text-5xl font-bold text-gray-900 mb-4">
-            Qu'est-ce que le <span className="gradient-pi bg-clip-text text-transparent">Pi Network</span> ?
+            Qu'est-ce que le <span className="gradient-text-pi">Pi Network</span> ?
           </h2>
           <p className="text-xl text-gray-600 max-w-3xl mx-auto">
             Une crypto-monnaie révolutionnaire que vous pouvez miner gratuitement depuis votre téléphone, 

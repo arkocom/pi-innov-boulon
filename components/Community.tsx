@@ -38,7 +38,7 @@ export default function Community() {
       <div className="container mx-auto px-4">
         <div className="text-center mb-16">
           <h2 className="text-4xl md:text-5xl font-bold text-gray-900 mb-4">
-            Communauté <span className="gradient-pi bg-clip-text text-transparent">Pionniers Pi</span>
+            Communauté <span className="gradient-text-pi">Pionniers Pi</span>
           </h2>
           <p className="text-xl text-gray-600 max-w-2xl mx-auto">
             Rejoignez une communauté passionnée de pionniers qui construisent l'avenir de la crypto-monnaie.
