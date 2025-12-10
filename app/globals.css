@@ -18,6 +18,14 @@ body {
   background: linear-gradient(135deg, var(--pi-purple) 0%, var(--pi-gold) 100%);
 }
 
+/* Version pour texte avec gradient visible */
+.gradient-text-pi {
+  background: linear-gradient(135deg, var(--pi-purple) 0%, var(--pi-gold) 100%);
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
+  background-clip: text;
+}
+
 .gradient-innov {
   background: linear-gradient(135deg, var(--innov-blue) 0%, #00BFFF 100%);
 }
